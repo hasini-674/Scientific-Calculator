@@ -16,6 +16,7 @@ Java Version (Swing, Applets, OOP)
   1. Swing-based GUI: The calculator interface is built using Java Swing to provide a graphical desktop application.
   2. Applet-based Version: A version of the calculator implemented as a Java Applet, which can be embedded in web pages.
   3. OOP Principles: The calculator logic is divided into classes representing different functionalities (operations, display, input handling, etc.).
+
 Web Version (HTML, CSS, JavaScript)
   1. HTML/CSS: Provides the structure and styling for the calculator interface.
   2. JavaScript: Handles the logic for calculations, input handling, and display updates.
