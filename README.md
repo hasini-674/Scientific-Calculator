@@ -25,6 +25,9 @@ Web Version (HTML, CSS, JavaScript)
 # Technologies Used
 
 Java (Swing, Applets): Used for building the desktop version of the calculator.
+
 HTML5/CSS3: For structuring and styling the web-based calculator.
+
 JavaScript: Implements the functionality and logic for the web version.
+
 OOP (Object-Oriented Programming): Core design principle in the Java implementation.
